@@ -1,6 +1,6 @@
-# Customer Segmentation Project - Miuul Bootcamp
+# Customer Segmentation Project
 
-This project shows how to analyze customers by grouping them based on sales data.
+This project, completed during the Miuul Data Science Bootcamp, demonstrates how to analyze and segment customers based on their sales behavior.
 
 ## Project Overview
 
