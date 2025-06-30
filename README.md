@@ -16,6 +16,12 @@ Key steps include:
 
 ## 📂 Code Structure
 
+The project includes the following files:
+- `customer_segmentation.py`: Main analysis script.
+- `README.md`: Project description and usage instructions.
+- `LICENSE`: MIT license file.
+- `.gitignore`: Files/folders excluded from version control.
+
 The analysis is performed in a single script and follows a step-by-step structure:
 
 1. **Data Loading & Initial Exploration**  
@@ -63,8 +69,15 @@ The dataset (`persona.csv`) is confidential and **not included** in this reposit
 1. Place the dataset (`persona.csv`) in your working directory.
 2. Run the script to perform the segmentation analysis.
 3. Explore the results and apply insights for marketing or business decisions.
-
+4. Install required libraries using:
+   ```
+   pip install -r requirements.txt
+   ```
 ---
 
 💬 If you have any questions, suggestions, or just want to connect — feel free to reach out!
 Your feedback is always welcome!
+
+## 📄 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
